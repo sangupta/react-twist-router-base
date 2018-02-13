@@ -1,0 +1,6 @@
+{
+    "libraries": [
+        "@twist/react",
+        "@twist/router"
+    ]
+}
